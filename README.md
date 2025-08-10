@@ -9,7 +9,7 @@ Website game Tic-Tac-Toe interaktif yang dibuat dengan React dan Vite. Proyek in
 - Riwayat langkah (move history) dan kemampuan untuk kembali ke langkah sebelumnya
 - Tampilan responsif dan modern
 
-## Cara Menjalankan di Device Lain (Cloner)
+## Cara Menjalankan
 
 1. **Clone repository ini:**
    ```bash
